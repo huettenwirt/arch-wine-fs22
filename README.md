@@ -3,6 +3,8 @@
 Dedicated Farming Simulator 22 server running inside a docker image based on ArchLinux. 
 This project is hosted at https://github.com/wine-gameservers/arch-wine-fs22/
 
+I changed the webserver port in nginx to 8084 since I had mutliple other containers depending on 8080...
+
 ## Table of contents
 <!-- vim-markdown-toc GFM -->
 * [Motivation](#motivation)
