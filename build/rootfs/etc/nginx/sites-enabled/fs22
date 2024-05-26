@@ -1,5 +1,5 @@
 server {
-	listen 8080;
+	listen 8084;
 	# listen [::]:80 ipv6only=on;
 
 	#_SSL_PORT_#listen 443 ssl ;
